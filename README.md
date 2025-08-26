@@ -23,5 +23,5 @@ Así es como luce la página 🤩
 <p align="center">
 ¿Ya exploraste todas las secciones? 🧐  
 Visítala ahora y descubre el estilo Camilu Fashion 🥳  
-<a href="https://singh-shivani.github.io/Merlin-Fashion/">Haz clic aquí</a>
+<a href="[https://singh-shivani.github.io/Merlin-Fashion/](https://svallejo117.github.io/)">Haz clic aquí</a>
 </p>
