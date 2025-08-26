@@ -1,25 +1,27 @@
-<h1 align = "center">Merlin Fashion🛒</h1>
+<h1 align = "center">Camilu Fashion 🛒</h1>
 
+<p align="center">¡Renueva tu guardarropa! 🛍️</p>
 
-<p align="center">Refresh Your Wardrobe!🛍️ 
- <p align="center">
-With a passion for fashion here's my very own custom website relating to it.💃
- </p>
- 
- 
- <p align="center">
- The template is for the Online Clothing Fashion which includes trending wardrobe collection. The website is made from scratch 🥳 and doesn't include any readymade code.
-Merlin Fashion doesn't include anything related to database, it is just a HTML, CSS and JS template. Though you can find some familiar images used in the website taken from various sources, but the purpose is to only make it more beautiful.🖤
+<p align="center">
+Con mucho amor por la moda nace <b>Camilu Fashion</b>, una página web diseñada desde cero 💃.  
+Aquí encontrarás una propuesta digital que busca reflejar las últimas tendencias y un estilo moderno pensado para quienes disfrutan vestir con actitud. ✨
+</p>
 
- </p>
+<p align="center">
+Este sitio está desarrollado únicamente con <b>HTML, CSS y JavaScript</b>, sin bases de datos ni plantillas prearmadas.  
+Algunas imágenes utilizadas provienen de distintas fuentes con el fin de darle un toque más atractivo y visualmente agradable. 🖤
+</p>
 
-  <p align="center">
-    And that's how it looks🤩
- </p>
- <p align="center">
- <img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif">
-  </p>
- <p align="center">
- Saw all the other pages?🧐 Go check it out now!🥳 
-   https://singh-shivani.github.io/Merlin-Fashion/
+<p align="center">
+Así es como luce la página 🤩
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif">
+</p>
+
+<p align="center">
+¿Ya exploraste todas las secciones? 🧐  
+Visítala ahora y descubre el estilo Camilu Fashion 🥳  
+<a href="https://singh-shivani.github.io/Merlin-Fashion/">Haz clic aquí</a>
 </p>
